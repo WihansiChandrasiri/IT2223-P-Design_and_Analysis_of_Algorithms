@@ -1,1 +1,25 @@
-# IT2223-P-Design_and_Analysis_of_Algorithms
+# Sorting
+
+
+Bubble Sort
+
+
+
+
+Insertion Sort
+
+
+
+
+Quick Sort
+
+
+
+
+Selection Sort
+
+
+
+Merge Sort
+
+
